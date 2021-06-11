@@ -7,7 +7,7 @@ description: Tyrell Hamer-Jackson has become a TikTok sensation for his work as
   a tugboat deckhand while also introducing the world to Canada’s other national
   sport, lacrosse. Jay Janower reports.
 featuredpost: true
-featuredimage: /img/products-full-width.jpg
+featuredimage: /img/tylerhamerjackson.jpg
 tags:
   - NLL
   - Lacrosse
